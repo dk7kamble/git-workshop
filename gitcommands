@@ -1,14 +1,15 @@
 # This is Git Commands list file
 
+
 #Initialize the Git Repo
-	git init
+git init
 
 # Add Files in statting area 
-	git add .		#add all content from repo
-	git add filename	#add perticure file
+git add .		#add all content from repo
+git add filename	#add perticure file
 
 # To commit the changes from stattinging
-	git commit -m "Commit Message"
+git commit -m "Commit Message"
 
 
 	
